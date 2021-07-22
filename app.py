@@ -1,9 +1,6 @@
-from json import encoder
 import requests
 import json
 from bs4 import BeautifulSoup
-from requests.api import head
-from requests.models import encode_multipart_formdata
 
 
 def get_article():

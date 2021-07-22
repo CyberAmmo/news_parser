@@ -1,10 +1,4 @@
 {
-    "bert-recovery": {
-        "article_date_timestamp": "24 февраля, 2020",
-        "article_title": "Как вывести сайт с Google Bert – небольшое руководство",
-        "article_description": "Все началось с этого поста и видео про то, что просели ряд сайтов по непонятным причинам.\n\nНо по факту Гугл нас начал радовать своими апдейтами...",
-        "article_link": "https://seoprofy.ua/blog/prodvizhenie-sajtov/bert-recovery"
-    },
     "bert-or-flux-nomer-313": {
         "article_date_timestamp": "19 декабря, 2019",
         "article_title": "Сайт улетел в -50-100 позиций, что делать? Google Bert или Flux?",
@@ -58,5 +52,11 @@
         "article_title": "Кейс: Email Software под США. Рост органического трафика в 9 раз за 2 года",
         "article_description": "Сегодня у нас кейс по поисковому продвижению в тематике Email Software под регион USA. О том, как получилось увеличить поисковый трафик в 9 раз за 2...",
         "article_link": "https://seoprofy.ua/blog/prodvizhenie-nish/email-software-case-study"
+    },
+    "bert-recovery": {
+        "article_date_timestamp": "24 февраля, 2020",
+        "article_title": "Как вывести сайт с Google Bert – небольшое руководство",
+        "article_description": "Все началось с этого поста и видео про то, что просели ряд сайтов по непонятным причинам.\n\nНо по факту Гугл нас начал радовать своими апдейтами...",
+        "article_link": "https://seoprofy.ua/blog/prodvizhenie-sajtov/bert-recovery"
     }
 }
